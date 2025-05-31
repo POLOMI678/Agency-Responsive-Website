@@ -1,3 +1,4 @@
+Please go to index.html to view the website.
 I have created a new HTML file which is a modified version of the previous layout. This version incorporates 'Tailwind CSS' along with some 'Bootstrap CSS' elements, and includes interactive features using 'Alpine.js' and custom 'JavaScript' scripts. The code is well-structured with proper comments for each section.
 
 Key enhancements include:
